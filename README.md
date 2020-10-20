@@ -1,7 +1,7 @@
 How To Use :
 git clone https://github.com/Mohit1108/DownloadFbVideo
 
-cd Facebook-Video-Downloader
+cd DownloadFbVideo
 
 php fb.php
 
