@@ -1,11 +1,11 @@
 How To Use :
-git clone https://github.com/mohit1108/Facebook-Video-Downloader
+git clone https://github.com/Mohit1108/DownloadFbVideo
 
 cd Facebook-Video-Downloader
 
 php fb.php
 
-enter URL for example (https://www.facebook.com/cctvcom/videos/1410869539034155/)
+enter URL for example (https://www.facebook.com/com/videos/141086953903415/)
 
 enter File Name
 
