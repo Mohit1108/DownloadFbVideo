@@ -1,5 +1,5 @@
 How To Use :
-git clone https://github.com/Tuhinshubhra/Facebook-Video-Downloader
+git clone https://github.com/mohit1108/Facebook-Video-Downloader
 
 cd Facebook-Video-Downloader
 
